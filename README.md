@@ -1,4 +1,4 @@
-# kodluyoruzilkrepo
+# Kodluyoruz Ilk Repo
 
 Bu repo [Kodluyoruz](https://app.patika.dev/egitimler/frontend-web-development-patikasi) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet  index.html barındırıyor.
 
